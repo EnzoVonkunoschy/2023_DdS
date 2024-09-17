@@ -4,8 +4,14 @@ Nombre: Enzo Vonkunoschy
 Correo: enzovonkunoschy@gmail.com
 Movil: 2612443928
 
+
 Nombre: Manuel Tomás Navarro
 Correo: navarromanu2002@gmail.com
 Movil: 2616740356
+
+Nombre: Alex Jurado
+Correo: alex45360981@gmail.com
+Movil: 2612066678
+
 
 
