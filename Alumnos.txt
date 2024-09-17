@@ -3,7 +3,11 @@ Nómina de Alumnos de Segundo año:
 Nombre: Enzo Vonkunoschy
 Correo: enzovonkunoschy@gmail.com
 Movil: 2612443928
+ 
 
+Nombre: Aldana Cáseres
+Correo: aldiicaseres@gmail.com
+Movil: 2617079614
 
 Nombre: Manuel Tomás Navarro
 Correo: navarromanu2002@gmail.com
