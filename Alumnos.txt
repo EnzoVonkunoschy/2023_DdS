@@ -2,11 +2,41 @@ Nómina de Alumnos de Segundo año:
 
 Nombre: Enzo Vonkunoschy
 Correo: enzovonkunoschy@gmail.com
-Movil: 2612443928
+Móvil: 2612443928
 
 Nombre: Iván Silva
 Correo: ivansilvaok@gmail.com
 Movil: 2612629617
 
+Nombre: Gabriel Barboza
+Correo: gabrielbarboza21040512@outlook.es
+Móvil: 2617085481
+ 
+Nombre: Aldana Cáseres
+Correo: aldiicaseres@gmail.com
+Movil: 2617079614
 
+Nombre: Agustín Parlante
+Correo: agustinparlante5@gmail.com
+Móvil: 2615958855
+
+Nombre: Enzo Cortez
+Correo: enzocortez2000@gmail.com
+Movil: 2616632707
+
+Nombre: Manuel Tomás Navarro
+Correo: navarromanu2002@gmail.com
+Movil: 2616740356
+
+Nombre: Alex Jurado
+Correo: alex45360981@gmail.com
+Movil: 2612066678
+
+Nombre: Lihuel Alejandro Roldán
+Correo: aleroldan156@gmail.com
+Móvil: 2615911890
+
+Nombre: Gimena Pérez
+Correo: gimenaperez1991@gmail.com
+Móvil: 2614169237
 
