@@ -12,6 +12,10 @@ Nombre: Aldana Cáseres
 Correo: aldiicaseres@gmail.com
 Movil: 2617079614
 
+Nombre: Enzo Cortez
+Correo: enzocortez2000@gmail.com
+Movil: 2616632707
+
 Nombre: Manuel Tomás Navarro
 Correo: navarromanu2002@gmail.com
 Movil: 2616740356
