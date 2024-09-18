@@ -27,3 +27,8 @@ Movil: 2612066678
 Nombre: Gimena Pérez
 Correo: gimenaperez1991@gmail.com
 Móvil: 2614169237
+
+
+Nombre:Jose oyola
+Correo: Edgardoyola@gmail.com
+Móvil: 2614161234
