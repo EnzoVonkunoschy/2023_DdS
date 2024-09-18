@@ -12,6 +12,10 @@ Nombre: Aldana Cáseres
 Correo: aldiicaseres@gmail.com
 Movil: 2617079614
 
+Nombre: Agustín Parlante
+Correo: agustinparlante5@gmail.com
+Móvil: 2615958855
+
 Nombre: Enzo Cortez
 Correo: enzocortez2000@gmail.com
 Movil: 2616632707
@@ -27,3 +31,4 @@ Movil: 2612066678
 Nombre: Gimena Pérez
 Correo: gimenaperez1991@gmail.com
 Móvil: 2614169237
+
