@@ -47,3 +47,7 @@ Móvil: 2614169237
 Nombre: Nahuel lozano
 correo: lozano.nahuel41@gmail.com
 móvil: 2615650863.
+
+Nombre: Emanuel Donoso
+Correo: emanueldonosouni@gmail.com
+Movil: 2616331404
