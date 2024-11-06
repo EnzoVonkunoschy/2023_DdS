@@ -1,4 +1,4 @@
-const Clases = require('./clases.js')
+const Turno = require('./clases.js')
 
 function testCliente(){
     const miTurno = new Turno("lunes",2,true)
